@@ -2,8 +2,8 @@
 |题目|出现次数|链接|体会|
 |-|-|-|-|
 |206. 反转链表|5|https://leetcode-cn.com/problems/reverse-linked-list|链表题，熟悉双向链表单向链表，学会修改方向|
-|53. 最大子序和|4|https://leetcode-cn.com/problems/maximum-subarray||
-|1143. 最长公共子序列|3|https://leetcode-cn.com/problems/longest-common-subsequence||
+|53. 最大子序和|4|https://leetcode-cn.com/problems/maximum-subarray|数组题，动态规划|
+|1143. 最长公共子序列|3|https://leetcode-cn.com/problems/longest-common-subsequence|动态规划，看不懂|
 |442. 数组中重复的数据|2|https://leetcode-cn.com/problems/find-all-duplicates-in-an-array||
 |300. 最长上升子序列|2|https://leetcode-cn.com/problems/longest-increasing-subsequence||
 |8. 字符串转换整数 (atoi)|2|https://leetcode-cn.com/problems/string-to-integer-atoi||
